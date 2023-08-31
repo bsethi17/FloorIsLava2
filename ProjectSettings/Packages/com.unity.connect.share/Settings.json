@@ -1,0 +1,26 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/Users/bhavyasethi/Documents/GameDev/FloorIsLava/LavaBall with rotation 31st-1-19-day;/Users/bhavyasethi/Documents/GameDev/FloorIsLava/LavaBall with rotation 31st-1-19;/Users/bhavyasethi/Documents/GameDev/FloorIsLava/LavaBall with rotation 31st;/Users/bhavyasethi/Documents/GameDev/FloorIsLava/Rolling ball over lava-rotation;/Users/bhavyasethi/Documents/GameDev/FloorIsLava/WebGL Build for rotation;/Users/bhavyasethi/Documents/GameDev/FloorIsLava/WebBuilds-assign2;/Users/bhavyasethi/Documents/GameDev/FloorIsLava/WebGL Builds;;;\"}"
+            }
+        ]
+    }
+}
